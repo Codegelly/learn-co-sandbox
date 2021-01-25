@@ -1,11 +1,21 @@
-#def greeting
- # puts "Hello World"
-#end
+# #def greeting
+# # puts "Hello World"
+# #end
 
-#greeting
+# #greeting
 
-def greeting 
-  puts "Hi, Ruby programmer!"
-end 
+# # def greeting 
+# #   puts "Hi, Ruby programmer!"
+# # end 
 
-greeting
+# # greeting
+
+# # 
+
+# def stylish_chef
+#   best_hairstyle = "Guy Fieri"
+#   return "Martha Stewart"
+#   "Guy Fieri"
+# end
+
+
